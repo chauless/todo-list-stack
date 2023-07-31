@@ -52,8 +52,8 @@ The task of the service is to iterate all users once a day, generate reports for
 
 ## Instructions for running the project on a local machine
 
-- Install Docker on local machine - https://docs.docker.com/get-docker/
-- Clone the task-tracker-stack repository
+- Install Docker - https://docs.docker.com/get-docker/
+- Clone the todo-list-stack repository
 ```bash
 git clone git@github.com:chauless/todo-list-stack.git
 ```
